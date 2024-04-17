@@ -68,6 +68,7 @@ header img {
 	padding: 0;
 }
 #nav_menu ul li a {
+	display:block;
     text-align: center;
     padding: 1em 0;
     text-decoration: none;
